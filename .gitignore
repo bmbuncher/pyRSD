@@ -3,8 +3,6 @@ transfer_data.sh
 build/
 build.log
 dist/
-pyRSD/gcl.py
-pyRSD/gcl_wrap.cpp
 pyRSD/data/halo-matter
 pyRSD/data/halo
 pyRSD/data/simulation_fits/
